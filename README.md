@@ -50,10 +50,5 @@ While this repository is mainly a personal challenge, contributions and feedback
 
 Inspired by the idea of consistent daily practice and learning. Special thanks to the LeetCode community for providing a platform to hone coding skills.
 
-## Contact
 
-For any inquiries or feedback, you can reach me at [your.email@example.com].
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
