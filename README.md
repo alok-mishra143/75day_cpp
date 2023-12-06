@@ -1,10 +1,10 @@
-# 365_cpp
+# 75_cpp
 
-# 365 C++ Challenge - LeetCode DSA Problems
+# 75 C++ Challenge - LeetCode DSA Problems
 #  day1 :-1-12-2023
 ## Overview
 
-Welcome to the "365 C++ Challenge - LeetCode DSA Problems" repository! This project is a personal commitment to solving one Data Structures and Algorithms (DSA) problem on LeetCode every day for a year using C++.
+Welcome to the "75 C++ Challenge - LeetCode DSA Problems" repository! This project is a personal commitment to solving one Data Structures and Algorithms (DSA) problem on LeetCode every day  using C++.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This repository is a personal challenge to enhance my problem-solving skills in 
 
 ## Goals
 
-- Solve one LeetCode DSA problem every day for 365 days.
+- Solve one LeetCode DSA problem every day for 75 days.
 - Implement solutions in C++.
 - Document the thought process, approach, and code for each problem.
 - Track progress and share insights gained through the challenge.
@@ -32,7 +32,7 @@ This repository is a personal challenge to enhance my problem-solving skills in 
 
 The repository is organized as follows:
 
-- **`Day1/` to `Day365/`**: Each day's challenge is organized in its respective directory.
+- **`Day1/` to `Day75/`**: Each day's challenge is organized in its respective directory.
   - **`README.md`**: Provides details about the problem, approach, and the C++ solution.
   - **`Solution.cpp`**: Contains the C++ code for solving the problem.
 
